@@ -19,16 +19,6 @@ Generate and analyse a confusion matrix.
 
 Calculate accuracy, precision, recall, and F1-score
 
-## Model Architecture
-The MLP consists of:
-
-Input Layer: 784 neurons (28 × 28 flattened image)
-
-Hidden Layer: Tuned during experimentation
-
-ReLU Activation Function
-
-Output Layer: 10 neurons (one for each clothing category)
 
 ## Performance Metrics
 Accuracy	85.29%
