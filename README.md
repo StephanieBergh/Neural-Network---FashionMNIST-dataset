@@ -50,6 +50,17 @@ Scikit-learn
 
 Jupyter Notebook
 
+## Running the Project
+### Clone the repository:
+git clone <repository-url>
+
+cd <repository-name>
+### Install dependencies:
+pip install torch torchvision numpy scikit-learn jupyter
+### Launch Jupyter Notebook:
+jupyter notebook
+### Open and run:
+fashion_mnist_task.ipynb
 
 ## Author
 Stephanie Bergh
