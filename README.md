@@ -52,9 +52,9 @@ Jupyter Notebook
 
 ## Running the Project
 ### Clone the repository:
-git clone <repository-url>
+git clone https://github.com/StephanieBergh/Neural-Network---FashionMNIST-dataset.git
 
-cd <repository-name>
+cd "Neural-Network---FashionMNIST-dataset"
 ### Install dependencies:
 pip install torch torchvision numpy scikit-learn jupyter
 ### Launch Jupyter Notebook:
