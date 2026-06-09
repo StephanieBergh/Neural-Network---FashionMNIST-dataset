@@ -6,29 +6,50 @@ The project uses the Fashion MNIST dataset available through torchvision.dataset
 
 ## Project Objectives
 Load and preprocess the Fashion MNIST dataset.
+
 Create training and test datasets using PyTorch DataLoaders.
+
 Implement an MLP classifier using PyTorch.
+
 Train and evaluate the model.
+
 Tune a selected hyperparameter.
+
 Generate and analyse a confusion matrix.
+
 Calculate accuracy, precision, recall, and F1-score
 
 ## Model Architecture
-###  The MLP consists of:
+The MLP consists of:
+
 Input Layer: 784 neurons (28 × 28 flattened image)
+
 Hidden Layer: Tuned during experimentation
+
 ReLU Activation Function
+
 Output Layer: 10 neurons (one for each clothing category)
 
 ## Performance Metrics
 Accuracy	85.29%
+
 Precision (Macro)	85.45%
+
 Recall (Macro)  85.14%
+
 F1 Score (Macro)	85.16%
 
 ## Technologies Used
 Python
+
 PyTorch
+
 NumPy
+
 Scikit-learn
+
 Jupyter Notebook
+
+
+## Author
+Stephanie Bergh
